@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    width: 300px;
+    height: 400px;
+}
+
+button {
+    margin: 20px 100px;
+}
